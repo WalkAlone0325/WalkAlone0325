@@ -2,6 +2,8 @@
 
 ### 😄欢迎大哥，留下你的star 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=WalkAlone0325.WalkAlone0325)
+
 #### 努力coding...
 
 <!--
