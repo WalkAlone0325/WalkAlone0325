@@ -1,4 +1,4 @@
-## 2022 
+## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 2022 
 
 ### 😄欢迎大哥，留下你的star 👋
 
@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![独行's github stats](https://github-readme-stats.vercel.app/api?username=WalkAlone0325&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalkAlone0325&layout=compact)](https://github.com/WalkAlone0325/github-readme-stats)
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WalkAlone0325&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WalkAlone0325&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalkAlone0325&layout=compact&theme=tokyonight" />
+</p>
