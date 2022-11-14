@@ -2,11 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+<picture> <img align="right" src="./Right_Side.gif" width = 250px></picture>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A02FAA&width=435&height=30&lines=Hello!+Welcome+To+My+GitHub+Profile!" alt="Typing SVG" />
 
-#### 努力coding...  [https://nebula-jing.netlify.app](https://nebula-jing.netlify.app/)
 
-<picture> <img align="right" src="./Right_Side.gif" width = 250px></picture>
+
+#### 努力coding...  [https://nebula-jing.netlify.app](https://nebula-jing.netlify.app/)
 
 <!-- <p align="right">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
