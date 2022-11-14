@@ -1,10 +1,8 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 2022 
+## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 🤔欢迎！留下你的star 👋 ![visitor](https://visitor-badge.glitch.me/badge?page_id=WalkAlone0325.WalkAlone0325)
 
-### 😄欢迎大哥，留下你的star 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=275DAA&background=FFFFFF00&width=450&height=30&lines=Hello.+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=WalkAlone0325.WalkAlone0325)
-
-#### 努力coding...
+#### 努力coding...  [https://nebula-jing.netlify.app](https://nebula-jing.netlify.app/)
 
 <!--
 **WalkAlone0325/WalkAlone0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +19,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WalkAlone0325&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WalkAlone0325&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalkAlone0325&layout=compact&theme=tokyonight" />
-</p>
+### 🛠 Skills
+
+[]()
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=F05032" alt="Vue.js logo" title="Vue.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/React.js-282C34?logo=React&logoColor=61DAFB" alt="React.js logo" title="React.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+
+### 👾 My GitHub Stats
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=WalkAlone0325&show_icons=true&theme=buefy&hide_border=true" alt="GitHub" />  |<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WalkAlone0325&theme=buefy&hide_border=true" alt="GitHub" />  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalkAlone0325&layout=compact" /> -->
+
+
+### 📈 Activity Graph
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=WalkAlone0325&bg_color=ffffff&color=8a73d6&line=8a73d6&point=b83d50&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
